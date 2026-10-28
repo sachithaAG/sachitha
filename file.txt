@@ -1,3 +1,7 @@
 hii
+<<<<<<< HEAD
 conflig p5
 
+=======
+new file
+>>>>>>> 134ebfe (p5)
